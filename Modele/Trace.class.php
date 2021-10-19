@@ -3,6 +3,7 @@
 // fichier : modele/Trace.class.php
 // R�le : la classe Trace repr�sente une trace ou un parcours
 // Derni�re mise � jour : 9/7/2021 par dPlanchet
+// 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
 include_once ('PointDeTrace.class.php');
 class Trace
 {
